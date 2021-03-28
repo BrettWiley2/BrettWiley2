@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Brett Wiley@BrettWiley2
 - 👀 I’m interested in web development including: php, html5, javascript, css3. Eventually I would like to learn Java.
 - 🌱 I’m currently learning javascript and php.
-- 💞️ I’m looking to collaborate eventually php and MySQL projects.
+- 💞️ I’m looking to collaborate eventually on php and MySQL projects.
 - 📫 The best way to reach me is email- bawiley83@icloud.com
 
 <!---
